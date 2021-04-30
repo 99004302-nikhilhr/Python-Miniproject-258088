@@ -20,6 +20,7 @@
     *  ↑ change the position of block
     * ← → movement of block left or right
     *  ↓  move the block to bottom
+    *  demo game show in tetris.png 
  When the block placed reach the top of the grid ,the game is over and it restart the game.
  
 ## Installation
