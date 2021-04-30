@@ -16,11 +16,11 @@
  Then game will start,it except the input of any key in order to start the game.
     
     Feature:
-    *  spacebar will move the shape to bottom of the grid.
-    *  ↑ change the position of symbol
-    * ← → movement of symbol left or right
-    *  ↓  move the symbol to bottom
- When the shape placed reach the top of the grid ,the game is over and it restart the game.
+    *  spacebar will move the block to bottom of the grid.
+    *  ↑ change the position of block
+    * ← → movement of block left or right
+    *  ↓  move the block to bottom
+ When the block placed reach the top of the grid ,the game is over and it restart the game.
  
 ## Installation
 
