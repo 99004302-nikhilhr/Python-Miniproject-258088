@@ -21,6 +21,6 @@ First, make sure you have installed Python 3.0+ on your machine.
 * Install pygame package on terminal
 
 ```
- sudo apt install python3-opencv
- 
+ sudo apt install python3-pygame
+
 ```
