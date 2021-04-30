@@ -8,7 +8,15 @@
 
 
 ## Description 
-Tetris, video game created by Russian designer Alexey Pajitnov in 1985 that allows players to rotate falling blocks strategically to clear levels. ... The goal of the game is to prevent the blocks from stacking up to the top of the screen for as long as possible.
+    Tetris, video game created by Russian designer Alexey Pajitnov in 1985 that allows players to rotate falling blocks strategically to clear levels. ... The goal of the game is to prevent the blocks from stacking up to the top of the screen for as long as possible.
+
+    When installation part completes along with required package,then compile tetris.py file.
+    Then game will start,it except the input of any key in order to start the game.
+        Feature:
+        *  spacebar will move the shape to bottom of the grid.
+        *  ↑ change the position of symbol
+        * ← → movement of symbol left or right
+        *  ↓  move the symbol to bottom
 
 ## Installation
 
