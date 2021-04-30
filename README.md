@@ -13,14 +13,15 @@
 
  When installation part completes along with required package,then compile tetris.py file.
  
-    Then game will start,it except the input of any key in order to start the game.
+ Then game will start,it except the input of any key in order to start the game.
     
     Feature:
     *  spacebar will move the shape to bottom of the grid.
     *  ↑ change the position of symbol
     * ← → movement of symbol left or right
     *  ↓  move the symbol to bottom
-
+ When the shape placed reach the top of the grid ,the game is over and it restart the game.
+ 
 ## Installation
 
 * Python 3.0+
