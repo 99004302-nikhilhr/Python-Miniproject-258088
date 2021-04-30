@@ -35,4 +35,4 @@ First, make sure you have installed Python 3.0+ on your machine.
     *  ↓  move the block to bottom
     
  When the block placed reach the top of the grid ,the game is over and it restart the game.
- demo game show in * [tetris.png](https://github.com/nikhilshetty589/Python-Miniproject-258088/blob/main/tetris.png)
+ demo game show in [tetris.png](https://github.com/nikhilshetty589/Python-Miniproject-258088/blob/main/tetris.png)
